@@ -1,7 +1,7 @@
 # minihound
-
+ 
 ## usage
- ./minihound open json 
+ ./minihound open json  (ldapdomaindump json)
 
  
 ![minihound](minihound.png)
